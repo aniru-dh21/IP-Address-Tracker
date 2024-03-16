@@ -8,3 +8,4 @@
 ## Technologies Used
 
 - React
+- Vite
