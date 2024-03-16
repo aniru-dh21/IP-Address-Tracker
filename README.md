@@ -20,3 +20,5 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 ### The Challenge
 
 Users should be able to:
+
+- View the optimal layour for each page depending on their device's screen size.
