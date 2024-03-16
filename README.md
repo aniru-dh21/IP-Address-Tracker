@@ -9,3 +9,4 @@
 
 - React
 - Vite
+- CSS (Tailwind CSS)
