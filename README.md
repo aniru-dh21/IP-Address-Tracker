@@ -29,3 +29,4 @@ Users should be able to:
 ## Author
 
 - Website - [Ramachandra Anirudh Vemulapalli](https://ramachandra-anirudh-vemulapalli.vercel.app)
+- Frontend Mentor - [@aniru-dh21](https://www.frontendmentor.io/profile/aniru-dh21)
