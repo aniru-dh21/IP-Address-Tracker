@@ -11,3 +11,4 @@
 - Vite
 - CSS (Tailwind CSS)
 - [IPAPI](https://ipapi.co/)
+- [React Leaflet](https://react-leaflet.js.org/)
