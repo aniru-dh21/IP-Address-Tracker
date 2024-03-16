@@ -10,3 +10,4 @@
 - React
 - Vite
 - CSS (Tailwind CSS)
+- [IPAPI](https://ipapi.co/)
