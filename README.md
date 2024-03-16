@@ -22,3 +22,4 @@ This is a solution to the [IP address tracker challenge on Frontend Mentor](http
 Users should be able to:
 
 - View the optimal layour for each page depending on their device's screen size.
+- See hover states for all interactive elements on the page.
